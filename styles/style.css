@@ -27,3 +27,7 @@
   height: 100vh;
   background-repeat: no-repeat;
 }
+
+.client-img {
+  width: 160px;
+}
