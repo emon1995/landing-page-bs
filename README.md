@@ -1,3 +1,3 @@
 # Reveal-landing-page
 
-# Live Link:
+# Live Link: https://emon1995.github.io/reveal-landing-page/
